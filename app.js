@@ -18,3 +18,9 @@ const checkValue = (value) => {
 const creatNewUser = async (user) => {
   return user;
 };
+
+
+const getAllAndShowUsers = async () => {
+  return true;
+}
+
