@@ -14,3 +14,7 @@ const checkValue = (value) => {
 
   return values;
 };
+
+const creatNewUser = async (user) => {
+  return user;
+};
