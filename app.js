@@ -3,5 +3,8 @@ const isLogin = (user) => {
   return isCheck;
 };
 
+const register = () => {
+  const isRegister = isLogin ? true : false;
 
-
+  console.log(isRegister);
+};
