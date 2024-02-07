@@ -8,3 +8,9 @@ const register = () => {
 
   console.log(isRegister);
 };
+
+const checkValue = (value) => {
+  const values = value ? value : null;
+
+  return values;
+};
