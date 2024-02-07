@@ -24,3 +24,8 @@ const getAllAndShowUsers = async () => {
   return true;
 }
 
+
+const serComment = (comment) => {
+  return comment.body;
+}
+
