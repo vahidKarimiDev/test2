@@ -29,3 +29,8 @@ const serComment = (comment) => {
   return comment.body;
 }
 
+
+const likeUser = (like) => {
+  return like
+}
+
